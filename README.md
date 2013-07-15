@@ -7,16 +7,16 @@ DesignPatternInJava
 
 実行方法
 --------
-$ git clone https://github.com/UsrNameu1/LearningJavaExamples 
-$ cd LearningJavaExamples
-$ javac com/tracecar/Main.java
-$ java com/tracecar/Main
-
-ウィンドウが現れるので上部のテキストフィールドに
-program end
-program go end
-program go right go right go right end
-program repeat 4 go right end end
-program repeat 4 repeat 3 go right go left end right end end
-など打ち込んでみるとテキストを解釈して軌跡がウィンドウにプロットされます。
+$ git clone https://github.com/UsrNameu1/LearningJavaExamples  
+$ cd LearningJavaExamples  
+$ javac com/tracecar/Main.java  
+$ java com/tracecar/Main  
+  
+ウィンドウが現れるので上部のテキストフィールドに  
+program end  
+program go end  
+program go right go right go right end  
+program repeat 4 go right end end  
+program repeat 4 repeat 3 go right go left end right end end  
+など打ち込んでみるとテキストを解釈して軌跡がウィンドウにプロットされます。  
 
